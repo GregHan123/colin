@@ -6,6 +6,6 @@ int main(){
 
 	sleep(0);
 
-	printf("lzy");
+	printf("hello lzw");
 	return 0;
 }
